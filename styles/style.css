@@ -1,0 +1,16 @@
+body{
+  background-color: white;
+}
+hr{
+border-style: dotted none none;
+border-width: 8px;
+width:8%;
+border-color: lightgrey;
+}
+h1{
+  color: #81B214;
+  font-style: italic;
+}
+h3{
+  color: #66BFBF;
+}
